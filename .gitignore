@@ -1,0 +1,6 @@
+# Ignore SDL libs and binaries
+bin/
+lib/
+*.dll
+*.wav
+*.ttf

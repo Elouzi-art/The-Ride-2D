@@ -85,13 +85,14 @@ Developed by a **two-person team**:
 git clone https://github.com/Elouzi-art/The-Ride-2D.git
 2. cd The-Ride-2D
 3. Compile using g++:
-g++ src/*.cpp -o bin/velo -Iinclude -Llib -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf -lSDL2_image -lSDL2_mixer
+g++ src/*.cpp -o bin/The_ride -Iinclude -Llib -lmingw32 -lSDL2main -lSDL2 -lSDL2_ttf -lSDL2_image -lSDL2_mixer
 
 ---
 
 📜 License
 This project is open-source under the MIT License.
 See the LICENSE file for details.
+
 
 
 
